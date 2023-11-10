@@ -1,0 +1,15 @@
+D:\NetCore\apoloCampus\Persistence\bin\Debug\net7.0\Persistence.deps.json
+D:\NetCore\apoloCampus\Persistence\bin\Debug\net7.0\Persistence.dll
+D:\NetCore\apoloCampus\Persistence\bin\Debug\net7.0\Persistence.pdb
+D:\NetCore\apoloCampus\Persistence\bin\Debug\net7.0\Domain.dll
+D:\NetCore\apoloCampus\Persistence\bin\Debug\net7.0\Domain.pdb
+D:\NetCore\apoloCampus\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+D:\NetCore\apoloCampus\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetCore\apoloCampus\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+D:\NetCore\apoloCampus\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+D:\NetCore\apoloCampus\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+D:\NetCore\apoloCampus\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+D:\NetCore\apoloCampus\Persistence\obj\Debug\net7.0\Persistence.dll
+D:\NetCore\apoloCampus\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+D:\NetCore\apoloCampus\Persistence\obj\Debug\net7.0\Persistence.pdb
+D:\NetCore\apoloCampus\Persistence\obj\Debug\net7.0\ref\Persistence.dll

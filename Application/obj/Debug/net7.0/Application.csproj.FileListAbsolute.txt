@@ -1,0 +1,17 @@
+D:\NetCore\apoloCampus\Application\bin\Debug\net7.0\Application.deps.json
+D:\NetCore\apoloCampus\Application\bin\Debug\net7.0\Application.dll
+D:\NetCore\apoloCampus\Application\bin\Debug\net7.0\Application.pdb
+D:\NetCore\apoloCampus\Application\bin\Debug\net7.0\Domain.dll
+D:\NetCore\apoloCampus\Application\bin\Debug\net7.0\Persistence.dll
+D:\NetCore\apoloCampus\Application\bin\Debug\net7.0\Domain.pdb
+D:\NetCore\apoloCampus\Application\bin\Debug\net7.0\Persistence.pdb
+D:\NetCore\apoloCampus\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\NetCore\apoloCampus\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetCore\apoloCampus\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\NetCore\apoloCampus\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\NetCore\apoloCampus\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\NetCore\apoloCampus\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\NetCore\apoloCampus\Application\obj\Debug\net7.0\Application.dll
+D:\NetCore\apoloCampus\Application\obj\Debug\net7.0\refint\Application.dll
+D:\NetCore\apoloCampus\Application\obj\Debug\net7.0\Application.pdb
+D:\NetCore\apoloCampus\Application\obj\Debug\net7.0\ref\Application.dll
